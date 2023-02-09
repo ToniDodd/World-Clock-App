@@ -56,3 +56,14 @@ footer{
     opacity: 0.6;
 
 }
+@media(max-width: 350px){
+    .time {
+        font-size: 20px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    footer {
+        font-size: 16px;
+    }
+};
